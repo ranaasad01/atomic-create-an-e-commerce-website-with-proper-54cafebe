@@ -1,1 +1,289 @@
-{}
+{
+  "nav": {
+    "logoAlt": "MarketHub - Home",
+    "searchPlaceholder": "Search products, brands, and more...",
+    "searchButton": "Search",
+    "account": "Account",
+    "wishlist": "Wishlist",
+    "cart": "Cart",
+    "menu": "Menu",
+    "allCategories": "All Categories",
+    "orders": "Orders",
+    "signIn": "Sign In"
+  },
+  "footer": {
+    "brand": {
+      "description": "Your one-stop marketplace for Electronics, Fashion, Home & Kitchen, Books, and Sports. Great prices, fast shipping."
+    },
+    "shop": {
+      "title": "Shop"
+    },
+    "account": {
+      "title": "Account"
+    },
+    "help": {
+      "title": "Help"
+    },
+    "trust": {
+      "secure": "Secure Checkout",
+      "shipping": "Free Shipping $50+",
+      "returns": "Easy 30-Day Returns",
+      "payment": "Multiple Payment Options"
+    },
+    "copyright": "© {year} {name}. All rights reserved.",
+    "paymentMethods": "We accept:"
+  },
+  "home": {
+    "hero": {
+      "badge": "New Arrivals",
+      "title": "Shop Everything,\nDelivered Fast",
+      "subtitle": "Discover millions of products across Electronics, Fashion, Home & Kitchen, Books, and Sports — all in one place.",
+      "cta": "Shop Now",
+      "ctaSecondary": "Browse Categories",
+      "slide1Title": "Top Electronics Deals",
+      "slide1Subtitle": "Save up to 40% on the latest gadgets and tech",
+      "slide2Title": "Fashion Forward",
+      "slide2Subtitle": "New season styles from top brands",
+      "slide3Title": "Home Essentials",
+      "slide3Subtitle": "Everything you need to make your house a home"
+    },
+    "categories": {
+      "title": "Shop by Category",
+      "subtitle": "Find exactly what you need"
+    },
+    "deals": {
+      "title": "Today's Best Deals",
+      "subtitle": "Limited-time offers — don't miss out",
+      "badge": "Limited Time",
+      "off": "off",
+      "shopDeal": "Shop Deal"
+    },
+    "featured": {
+      "title": "Featured Products",
+      "subtitle": "Handpicked for you"
+    },
+    "newsletter": {
+      "title": "Get Exclusive Deals",
+      "subtitle": "Subscribe to our newsletter and be the first to know about sales, new arrivals, and special offers.",
+      "placeholder": "Enter your email address",
+      "button": "Subscribe",
+      "disclaimer": "No spam, ever. Unsubscribe at any time."
+    },
+    "addToCart": "Add to Cart",
+    "viewAll": "View All",
+    "shopNow": "Shop Now"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "addToWishlist": "Add to Wishlist",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "reviews": "reviews",
+    "specifications": "Specifications",
+    "description": "Description",
+    "relatedProducts": "You May Also Like",
+    "quantity": "Quantity",
+    "freeShipping": "Free shipping on orders over $50",
+    "returns": "Free 30-day returns",
+    "secure": "Secure checkout"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": {
+      "cta": "Continue Shopping",
+      "description": "Add items to get started",
+      "title": "Your cart is empty"
+    },
+    "emptySubtitle": "Looks like you haven't added anything yet.",
+    "continueShopping": "Continue Shopping",
+    "remove": "Remove",
+    "quantity": "Qty",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax (8%)",
+    "total": "Order Total",
+    "freeShipping": "FREE",
+    "checkout": "Proceed to Checkout",
+    "coupon": {
+      "apply": "Apply",
+      "errorEmpty": "Enter a coupon code",
+      "errorInvalid": "This coupon code is invalid or expired",
+      "hint": "Have a promo code?",
+      "label": "Coupon Code",
+      "placeholder": "Enter code",
+      "remove": "Remove"
+    },
+    "couponPlaceholder": "Enter coupon code",
+    "apply": "Apply",
+    "items": "{count} items",
+    "savedForLater": "Saved for Later",
+    "allSaved": "Saved for Later",
+    "decreaseQty": "Decrease quantity",
+    "each": "Each",
+    "increaseQty": "Increase quantity",
+    "item": "Item",
+    "moveToCart": "Move to Cart",
+    "removeItem": "Remove",
+    "saveForLater": "Save for Later",
+    "saving": "Saving…",
+    "summary": {
+      "couponDiscount": "Discount",
+      "cta": "Proceed to Checkout",
+      "free": "Free",
+      "freeShippingHint": "Free shipping on orders over $50",
+      "shipping": "Shipping",
+      "subtotal": "Subtotal",
+      "tax": "Tax",
+      "title": "Order Summary",
+      "total": "Total"
+    },
+    "trust": {
+      "returns": "30-day returns",
+      "secure": "Secure checkout",
+      "shipping": "Fast delivery"
+    }
+  },
+  "checkout": {
+    "title": "Checkout",
+    "steps": {
+      "shipping": "Shipping",
+      "review": "Review",
+      "payment": "Payment"
+    },
+    "shipping": {
+      "title": "Shipping Address",
+      "fullName": "Full Name",
+      "street": "Street Address",
+      "city": "City",
+      "state": "State",
+      "zip": "ZIP Code",
+      "country": "Country",
+      "continue": "Continue to Review"
+    },
+    "review": {
+      "title": "Order Review",
+      "back": "Back to Shipping",
+      "continue": "Continue to Payment"
+    },
+    "payment": {
+      "title": "Payment",
+      "back": "Back to Review",
+      "place": "Place Order",
+      "cardNumber": "Card Number",
+      "expiry": "Expiry Date",
+      "cvv": "CVV",
+      "nameOnCard": "Name on Card",
+      "demo": "Demo mode — no real charge will be made"
+    },
+    "summary": {
+      "title": "Order Summary"
+    }
+  },
+  "confirmation": {
+    "title": "Order Confirmed!",
+    "subtitle": "Thank you for your purchase. Your order has been placed successfully.",
+    "orderId": "Order ID",
+    "date": "Order Date",
+    "continueShopping": "Continue Shopping",
+    "viewOrders": "View My Orders",
+    "estimatedDelivery": "Estimated Delivery",
+    "trackOrder": "Track Order",
+    "nextSteps": "What happens next?",
+    "step1": "Order Confirmation",
+    "step1Desc": "You will receive an email confirmation shortly.",
+    "step2": "Processing",
+    "step2Desc": "We are preparing your items for shipment.",
+    "step3": "Shipping",
+    "step3Desc": "Your order will be shipped within 1-2 business days.",
+    "step4": "Delivery",
+    "step4Desc": "Estimated delivery in 3-5 business days."
+  },
+  "account": {
+    "title": "My Account",
+    "welcome": "Welcome back",
+    "profile": "Profile",
+    "orders": "Orders",
+    "addresses": "Addresses",
+    "settings": "Settings",
+    "signOut": "Sign Out",
+    "editProfile": "Edit Profile",
+    "memberSince": "Member since",
+    "totalOrders": "Total Orders",
+    "totalSpent": "Total Spent"
+  },
+  "orders": {
+    "title": "Order History",
+    "empty": "No orders yet",
+    "emptySubtitle": "When you place an order, it will appear here.",
+    "orderNumber": "Order",
+    "date": "Date",
+    "status": "Status",
+    "total": "Total",
+    "viewDetails": "View Details",
+    "processing": "Processing",
+    "shipped": "Shipped",
+    "delivered": "Delivered",
+    "cancelled": "Cancelled",
+    "trackingNumber": "Tracking Number",
+    "estimatedDelivery": "Estimated Delivery"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Create Account",
+    "email": "Email Address",
+    "password": "Password",
+    "name": "Full Name",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "terms": "I agree to the Terms of Service and Privacy Policy",
+    "continueDemo": "Continue as Demo User",
+    "orContinueWith": "Or continue with",
+    "google": "Continue with Google",
+    "apple": "Continue with Apple"
+  },
+  "search": {
+    "title": "Search Results",
+    "resultsFor": "Results for",
+    "noResults": "No results found",
+    "noResultsSubtitle": "Try different keywords or browse our categories.",
+    "filters": "Filters",
+    "sortBy": "Sort by",
+    "priceRange": "Price Range",
+    "rating": "Rating",
+    "category": "Category",
+    "clearFilters": "Clear Filters",
+    "showing": "Showing {count} results"
+  },
+  "category": {
+    "products": "products",
+    "sortBy": "Sort by",
+    "filters": "Filters",
+    "noProducts": "No products found",
+    "priceRange": "Price Range",
+    "rating": "Customer Rating",
+    "clearFilters": "Clear All Filters"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "seeAll": "See All",
+    "backToHome": "Back to Home",
+    "addedToCart": "Added to cart!",
+    "removedFromCart": "Removed from cart",
+    "addedToWishlist": "Added to wishlist",
+    "price": "Price",
+    "rating": "Rating",
+    "newest": "Newest",
+    "popular": "Most Popular",
+    "lowToHigh": "Price: Low to High",
+    "highToLow": "Price: High to Low"
+  },
+  "breadcrumb": {
+    "cart": "Cart",
+    "home": "Home"
+  }
+}

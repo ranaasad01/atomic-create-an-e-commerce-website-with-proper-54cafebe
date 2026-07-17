@@ -1,1 +1,289 @@
-{}
+{
+  "nav": {
+    "logoAlt": "MarketHub - Inicio",
+    "searchPlaceholder": "Buscar productos, marcas y más...",
+    "searchButton": "Buscar",
+    "account": "Cuenta",
+    "wishlist": "Lista de deseos",
+    "cart": "Carrito",
+    "menu": "Menú",
+    "allCategories": "Todas las categorías",
+    "orders": "Pedidos",
+    "signIn": "Iniciar sesión"
+  },
+  "footer": {
+    "brand": {
+      "description": "Tu tienda única para Electrónica, Moda, Hogar y Cocina, Libros y Deportes. Precios excelentes, envío rápido."
+    },
+    "shop": {
+      "title": "Tienda"
+    },
+    "account": {
+      "title": "Cuenta"
+    },
+    "help": {
+      "title": "Ayuda"
+    },
+    "trust": {
+      "secure": "Compra segura",
+      "shipping": "Envío gratis $50+",
+      "returns": "Devoluciones fáciles en 30 días",
+      "payment": "Múltiples opciones de pago"
+    },
+    "copyright": "© {year} {name}. Todos los derechos reservados.",
+    "paymentMethods": "Aceptamos:"
+  },
+  "home": {
+    "hero": {
+      "badge": "Nuevas llegadas",
+      "title": "Compra todo,\nEntregado rápido",
+      "subtitle": "Descubre millones de productos en Electrónica, Moda, Hogar y Cocina, Libros y Deportes — todo en un solo lugar.",
+      "cta": "Comprar ahora",
+      "ctaSecondary": "Explorar categorías",
+      "slide1Title": "Mejores ofertas en Electrónica",
+      "slide1Subtitle": "Ahorra hasta 40% en los últimos gadgets y tecnología",
+      "slide2Title": "Moda a la vanguardia",
+      "slide2Subtitle": "Estilos de nueva temporada de las mejores marcas",
+      "slide3Title": "Esenciales para el hogar",
+      "slide3Subtitle": "Todo lo que necesitas para hacer de tu casa un hogar"
+    },
+    "categories": {
+      "title": "Comprar por categoría",
+      "subtitle": "Encuentra exactamente lo que necesitas"
+    },
+    "deals": {
+      "title": "Las mejores ofertas de hoy",
+      "subtitle": "Ofertas por tiempo limitado — no te las pierdas",
+      "badge": "Tiempo limitado",
+      "off": "descuento",
+      "shopDeal": "Ver oferta"
+    },
+    "featured": {
+      "title": "Productos destacados",
+      "subtitle": "Seleccionados especialmente para ti"
+    },
+    "newsletter": {
+      "title": "Obtén Ofertas Exclusivas",
+      "subtitle": "Suscríbete a nuestro boletín y sé el primero en enterarte sobre ventas, nuevos productos y ofertas especiales.",
+      "placeholder": "Ingresa tu correo electrónico",
+      "button": "Suscribirse",
+      "disclaimer": "Sin spam, nunca. Desuscribirse en cualquier momento."
+    },
+    "addToCart": "Agregar al Carrito",
+    "viewAll": "Ver Todo",
+    "shopNow": "Comprar Ahora"
+  },
+  "product": {
+    "addToCart": "Agregar al Carrito",
+    "buyNow": "Comprar Ahora",
+    "addToWishlist": "Agregar a Lista de Deseos",
+    "inStock": "En Stock",
+    "outOfStock": "Agotado",
+    "reviews": "reseñas",
+    "specifications": "Especificaciones",
+    "description": "Descripción",
+    "relatedProducts": "También Te Puede Interesar",
+    "quantity": "Cantidad",
+    "freeShipping": "Envío gratis en pedidos mayores a $50",
+    "returns": "Devoluciones gratis en 30 días",
+    "secure": "Compra segura"
+  },
+  "cart": {
+    "title": "Carrito de Compras",
+    "empty": {
+      "cta": "Continuar Comprando",
+      "description": "Agrega artículos para comenzar",
+      "title": "Tu carrito está vacío"
+    },
+    "emptySubtitle": "Parece que aún no has agregado nada.",
+    "continueShopping": "Continuar Comprando",
+    "remove": "Eliminar",
+    "quantity": "Cant.",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "tax": "Impuesto (8%)",
+    "total": "Total del Pedido",
+    "freeShipping": "GRATIS",
+    "checkout": "Proceder al Pago",
+    "coupon": {
+      "apply": "Aplicar",
+      "errorEmpty": "Ingresa un código de cupón",
+      "errorInvalid": "Este código de cupón es inválido o ha expirado",
+      "hint": "¿Tienes un código promocional?",
+      "label": "Código de Cupón",
+      "placeholder": "Ingrese código",
+      "remove": "Eliminar"
+    },
+    "couponPlaceholder": "Ingrese código de cupón",
+    "apply": "Aplicar",
+    "items": "{count} artículos",
+    "savedForLater": "Guardado para después",
+    "allSaved": "Guardado para después",
+    "decreaseQty": "Disminuir cantidad",
+    "each": "Cada uno",
+    "increaseQty": "Aumentar cantidad",
+    "item": "Artículo",
+    "moveToCart": "Mover al carrito",
+    "removeItem": "Eliminar",
+    "saveForLater": "Guardar para después",
+    "saving": "Guardando…",
+    "summary": {
+      "couponDiscount": "Descuento",
+      "cta": "Proceder al pago",
+      "free": "Gratis",
+      "freeShippingHint": "Envío gratis en pedidos superiores a $50",
+      "shipping": "Envío",
+      "subtotal": "Subtotal",
+      "tax": "Impuesto",
+      "title": "Resumen del pedido",
+      "total": "Total"
+    },
+    "trust": {
+      "returns": "Devoluciones en 30 días",
+      "secure": "Pago seguro",
+      "shipping": "Entrega rápida"
+    }
+  },
+  "checkout": {
+    "title": "Pago",
+    "steps": {
+      "shipping": "Envío",
+      "review": "Revisar",
+      "payment": "Pago"
+    },
+    "shipping": {
+      "title": "Dirección de envío",
+      "fullName": "Nombre completo",
+      "street": "Dirección",
+      "city": "Ciudad",
+      "state": "Estado",
+      "zip": "Código postal",
+      "country": "País",
+      "continue": "Continuar a revisar"
+    },
+    "review": {
+      "title": "Revisión del pedido",
+      "back": "Volver a Envío",
+      "continue": "Continuar a Pago"
+    },
+    "payment": {
+      "title": "Pago",
+      "back": "Volver a Revisión",
+      "place": "Realizar Pedido",
+      "cardNumber": "Número de Tarjeta",
+      "expiry": "Fecha de Vencimiento",
+      "cvv": "CVV",
+      "nameOnCard": "Nombre en la Tarjeta",
+      "demo": "Modo de demostración — no se realizará ningún cargo real"
+    },
+    "summary": {
+      "title": "Resumen del Pedido"
+    }
+  },
+  "confirmation": {
+    "title": "¡Pedido Confirmado!",
+    "subtitle": "Gracias por tu compra. Tu pedido ha sido realizado exitosamente.",
+    "orderId": "ID de Pedido",
+    "date": "Fecha del Pedido",
+    "continueShopping": "Continuar Comprando",
+    "viewOrders": "Ver Mis Pedidos",
+    "estimatedDelivery": "Entrega Estimada",
+    "trackOrder": "Rastrear Pedido",
+    "nextSteps": "¿Qué sucede ahora?",
+    "step1": "Confirmación de Pedido",
+    "step1Desc": "Recibirás una confirmación por correo electrónico en breve.",
+    "step2": "Procesamiento",
+    "step2Desc": "Estamos preparando tus artículos para el envío.",
+    "step3": "Envío",
+    "step3Desc": "Tu pedido será enviado dentro de 1-2 días hábiles.",
+    "step4": "Entrega",
+    "step4Desc": "Entrega estimada en 3-5 días hábiles."
+  },
+  "account": {
+    "title": "Mi Cuenta",
+    "welcome": "Bienvenido de vuelta",
+    "profile": "Perfil",
+    "orders": "Pedidos",
+    "addresses": "Direcciones",
+    "settings": "Configuración",
+    "signOut": "Cerrar Sesión",
+    "editProfile": "Editar Perfil",
+    "memberSince": "Miembro desde",
+    "totalOrders": "Total de Pedidos",
+    "totalSpent": "Total Gastado"
+  },
+  "orders": {
+    "title": "Historial de Pedidos",
+    "empty": "Sin pedidos aún",
+    "emptySubtitle": "Cuando realices un pedido, aparecerá aquí.",
+    "orderNumber": "Pedido",
+    "date": "Fecha",
+    "status": "Estado",
+    "total": "Total",
+    "viewDetails": "Ver Detalles",
+    "processing": "Procesando",
+    "shipped": "Enviado",
+    "delivered": "Entregado",
+    "cancelled": "Cancelado",
+    "trackingNumber": "Número de Seguimiento",
+    "estimatedDelivery": "Entrega Estimada"
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signUp": "Crear Cuenta",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "name": "Nombre Completo",
+    "rememberMe": "Recuérdame",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes cuenta?",
+    "hasAccount": "¿Ya tienes cuenta?",
+    "terms": "Acepto los Términos de Servicio y la Política de Privacidad",
+    "continueDemo": "Continuar como Usuario Demo",
+    "orContinueWith": "O continúa con",
+    "google": "Continuar con Google",
+    "apple": "Continuar con Apple"
+  },
+  "search": {
+    "title": "Resultados de Búsqueda",
+    "resultsFor": "Resultados para",
+    "noResults": "No se encontraron resultados",
+    "noResultsSubtitle": "Intenta con palabras clave diferentes o explora nuestras categorías.",
+    "filters": "Filtros",
+    "sortBy": "Ordenar por",
+    "priceRange": "Rango de Precio",
+    "rating": "Calificación",
+    "category": "Categoría",
+    "clearFilters": "Limpiar Filtros",
+    "showing": "Mostrando {count} resultados"
+  },
+  "category": {
+    "products": "productos",
+    "sortBy": "Ordenar por",
+    "filters": "Filtros",
+    "noProducts": "No se encontraron productos",
+    "priceRange": "Rango de Precio",
+    "rating": "Calificación del Cliente",
+    "clearFilters": "Limpiar Todos los Filtros"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "retry": "Intentar de Nuevo",
+    "seeAll": "Ver Todo",
+    "backToHome": "Volver al Inicio",
+    "addedToCart": "¡Agregado al carrito!",
+    "removedFromCart": "Eliminado del carrito",
+    "addedToWishlist": "Agregado a la lista de deseos",
+    "price": "Precio",
+    "rating": "Calificación",
+    "newest": "Más Reciente",
+    "popular": "Más Popular",
+    "lowToHigh": "Precio: Menor a Mayor",
+    "highToLow": "Precio: Mayor a Menor"
+  },
+  "breadcrumb": {
+    "cart": "Carrito",
+    "home": "Inicio"
+  }
+}
